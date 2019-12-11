@@ -12,4 +12,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 craeting a new branch is quick
 
-Creating a new branch is quick & simple
+<<<<<<< HEA
+Creating a new branch is quick and simple
+=======
+Creating a new branch is quick AND simple
+>>>>>>> feature1
