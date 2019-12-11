@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
+
 
 
 ### Jekyll Themes
@@ -10,3 +11,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it outa
 
 craeting a new branch is quick
+
+Creating a new branch is quick & simple
