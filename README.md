@@ -1,19 +1,4 @@
-# Welcome to GitHub Pages
 
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YiuwaiChu/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it outa
-
-craeting a new branch is quick
-
-<<<<<<< HEA
-Creating a new branch is quick and simple
-=======
-Creating a new branch is quick AND simple
->>>>>>> feature1
+try to get a new file
